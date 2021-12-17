@@ -67,3 +67,6 @@ Author : Hafidh Ahmad Fauzan
 ![](ScreenShoot/20.2%20Show%20Visualization.png)
 ![](ScreenShoot/20.3%20Show%20Visualization.png)
 ![](ScreenShoot/20.4%20Show%20Visualization.png)
+
+#### Score for Sentiment Analyst :
+![](ScreenShoot/score_sentiment_analyst.png)
